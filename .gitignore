@@ -3,6 +3,7 @@ venv/
 __pycache__/
 test.db
 node_modules
+env
 
 # OS generated files #
 ######################
